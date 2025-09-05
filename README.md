@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋, I'm Jakmodz</h1>
-  <p>  Programing is my passion </p>
+  <p>Programming is my passion</p>
 </div>
 
 ---
@@ -36,32 +36,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img width="12" />
- 
 </div>
 
 ---
 
-### 🌐Highlights of the latest discoveries
-- **[Creating programing languages]** - mostly influened by book <a href="https://craftinginterpreters.com/" target="_blank">Crafting interpreters </a>
-` **[]**
+### 🌐 Highlights of the Latest Discoveries
+- **📝 Creating programming languages** – mostly influenced by the book <a href="https://craftinginterpreters.com/" target="_blank">Crafting Interpreters</a>.  
+- **🔧 Experimenting with Arduino + Rust for microcontroller projects** – taking microcontroller programming beyond C by trying out Rust on Arduino boards. The extra safety guarantees are exciting for embedded systems.  
+- **🍓 Raspberry Pi Projects** – experimenting with Raspberry Pi for small servers, IoT setups, and hardware tinkering. It’s the perfect bridge between embedded systems and full Linux environments.  
+
+---
 
 ### 📂 Projects 
-- **[Rust fortran compiler]** – I'am trying to implement basic compiler of fortran that supports fortran90 standard (https://github.com/jakmodz/RustFortranCompiler)
-- **[Lox interpreter in c++]** – As mentioned upper implementation of lox lanugage based on crafting interpreters book (https://github.com/jakmodz/LoxCppInterpreter)
-- **[Own c++ std library]** – This project taught me how often used things work under the hood(https://github.com/jakmodz/CppOwnStd)
+- **[Rust Fortran Compiler](https://github.com/jakmodz/RustFortranCompiler)** – I’m working on implementing a basic Fortran compiler that supports the Fortran90 standard.  
+- **[Lox Interpreter in C++](https://github.com/jakmodz/LoxCppInterpreter)** – an implementation of the Lox language based on the *Crafting Interpreters* book.  
+- **[Own C++ Standard Library](https://github.com/jakmodz/CppOwnStd)** – a project where I re-implemented parts of the C++ standard library to understand how common features work under the hood.  
 
 ---
 
 ### 📫 Connect with me
 <div>
   <a href="https://github.com/jakmodz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jakmodz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:modzeleklm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <p>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</p>
+  <h2>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</h2>
 </div>
